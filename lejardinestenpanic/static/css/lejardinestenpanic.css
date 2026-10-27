@@ -1,0 +1,13 @@
+
+body {
+    background: linear-gradient(to right, #d0ecd2, rgb(148, 191, 148)) !important;
+    color: rgb(2, 72, 2);
+    margin: 0 !important;
+    padding: 0 !important;
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+}
